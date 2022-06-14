@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ## 🤝Socials
 <a href = "https://www.linkedin.com/in/rashid-aziz-68a208200"><img src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href = "https://www.hackerrank.com/muskan80525"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href = "https://github.com/rashid642"><img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href = "https://leetcode.com/MuskanGupta2702/"><img src= "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
-
+<a href = "https://leetcode.com/alivewalker/"><img src= "https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>
+<a href = "https://codeforces.com/profile/rashid_aziz"><img src= "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
+<a href = "https://www.codechef.com/users/alive_walker"><img src= "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
 ## 🚩Skills
 
 ### 👩🏻‍💻Languages
